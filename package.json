@@ -1,0 +1,25 @@
+{
+  "name": "vue-pusher",
+  "version": "1.0.0",
+  "description": "A lightweight wrapper for the utilization of Pusher with Vue.",
+  "main": "src/index.js",
+  "author": "Jake Adams <jakegeneadams@gmail.com>",
+  "homepage": "https://github.com/jakegeneadams/vue-pusher#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakegeneadams/vue-pusher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jakegeneadams/vue-pusher/issues"
+  },
+  "dependencies": {
+    "pusher-js": "^5.x"
+  },
+  "keywords": [
+    "vuejs",
+    "vue",
+    "vue-pusher",
+    "pusher"
+  ]
+}
