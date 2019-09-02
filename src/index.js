@@ -38,7 +38,7 @@ VuePusher.prototype.unsubscribe = function(channel) {
  * @return {Array}
  */
 VuePusher.prototype.getChannels = function() {
-  return this.pusher.allChannels;
+  return this.pusher.allChannels();
 }
 
 /**
